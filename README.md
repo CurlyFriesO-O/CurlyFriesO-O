@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: use my Gmail on CurlyFriis129@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I hate python!
 
 <!---
 CurlyFriesO-O/CurlyFriesO-O is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
