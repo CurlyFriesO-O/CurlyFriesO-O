@@ -1,6 +1,7 @@
 - Hi, I’m Curly Fries 🗿
 - I’m interested in RTS and RPG games, coding mods, and coding games.
-- 🌱 I’m currently learning Gamemaker 2.0 (10 months), Unity C# (2 Months), Minecraft datapack language (JSON, 4 Months)
+- I am focusing on NeoForge mods right now
+- I’m currently learning Gamemaker 2.0 (2 years), Unity C# (6 months), Minecraft datapack language (JSON, 3 years)
 - 📫 How to reach me: use my Gmail on CurlyFriis129@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I hate python!
